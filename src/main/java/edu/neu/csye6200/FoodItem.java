@@ -1,5 +1,6 @@
 package edu.neu.csye6200;
 
+
 public class FoodItem extends Item {
     private String type;
 

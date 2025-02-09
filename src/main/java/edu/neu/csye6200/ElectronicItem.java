@@ -1,5 +1,6 @@
 package edu.neu.csye6200;
 
+
 public class ElectronicItem extends Item {
     private String warranty;
 
